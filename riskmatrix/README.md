@@ -1,6 +1,8 @@
-Examples of how I used Chat GPT, Python, and Jupyter Notebook to create visuals for CAI 5200: Threats and Resilience.
+# CAI 5200 Risk Matrix
 
-You can edit these examples to suit your particular project if you have a basic grasp of Python.
+An example of how I used Chat GPT, Python, and Jupyter Notebook to create visuals for CAI 5200: Threats and Resilience.
+
+You can edit this example to suit your particular project if you have a basic grasp of Python.
 
 Requirements:
 
