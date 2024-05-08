@@ -1,1 +1,3 @@
-Jupyter notebook is great for making a simple risk matrix for CAI 5200 project.
+Jupyter notebook is great for making a simple risk matrix.
+
+![Risk Matrix](riskmatrix.png)
